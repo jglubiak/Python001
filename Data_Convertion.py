@@ -1,0 +1,5 @@
+print("1"+str(1))
+print(1+int("2"))
+print(1+2.2)
+print(1+float("2.1"))
+print('Moj text'*1)
